@@ -1,7 +1,3 @@
-# RasperryPi-Clock-FULL
- 
-markdown
-Copy code
 # Raspberry Pi Temperature Measurement Application
 
 ## Program Description
