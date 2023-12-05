@@ -45,6 +45,7 @@ Measure the temperature using the DS18B20 sensor and save it to the database.
 Display temperature and weather information on the LCD screen.
 ## Author
 Emsii
+5.12.2023
 
 
 
