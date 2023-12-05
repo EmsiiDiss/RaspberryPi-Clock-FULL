@@ -1,4 +1,3 @@
-# RasperryPi-Clock-FULL
 # Raspberry Pi Temperature Measurement Application
 
 ## Description
